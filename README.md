@@ -16,4 +16,4 @@
 - ✅ Деплой на GitHub Pages
 
 ## 🎮 **Демо**
-[Смотреть вживую](https://allay-rne.github.io/todo-list-react)
+[Смотреть вживую]( https://allay-rne.github.io/todo/)
