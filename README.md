@@ -1,13 +1,20 @@
-# React + Vite
+# Todo List React 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Современный To-Do список на React 19 + Vite + SCSS.**  
+Практический проект по курсу Friendly Frontend (урок 23 — Деплой).
 
-Currently, two official plugins are available:
+[![React](https://img.shields.io/badge/React-19.1.0-brightgreen)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-7.0.4-orange)](https://vite.dev)
+[![Deployed](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue)](https://allay-rne.github.io/todo-list-react)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ **Что реализовано**
+- ✅ React 19 + Hooks (useState, useEffect)
+- ✅ Context API для глобального состояния
+- ✅ Drag-n-Drop перестановки задач
+- ✅ Фильтры (Все/Активные/Завершённые)
+- ✅ Локальное хранение (localStorage)
+- ✅ Адаптивный UI (SCSS + Flexbox/Grid)
+- ✅ Деплой на GitHub Pages
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# todo
+## 🎮 **Демо**
+[Смотреть вживую](https://allay-rne.github.io/todo-list-react)
