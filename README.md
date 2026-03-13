@@ -24,7 +24,6 @@ React 19 - Vite 7 - SCSS - ESLint - JSON Server - GitHub Pages
 
 ## 🚀 **Быстрый старт**
 
-```bash
 # Клонируй
 git clone https://github.com/allay-rne/todo-list-react.git
 cd todo-list-react
